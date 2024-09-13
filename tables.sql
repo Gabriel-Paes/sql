@@ -1,4 +1,3 @@
--- Active: 1725824472851@@mysql-db.server.gabrielpaes.com.br@3306@sdm
 CREATE TABLE cargo (
     idCargo INT PRIMARY KEY NOT NULL AUTO_INCREMENT,
     nome VARCHAR(255)
